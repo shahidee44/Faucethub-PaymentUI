@@ -12,6 +12,7 @@ Select from 1 of the 4 request types:
 2) Check Own Balance - Required Currency Ticker - This checks the balance of your own faucethub account for that particular currency.
 3) Pay User - Required Address, Currency Ticker and Amount - This pays the user with the entered address, an amount in satoshis or 10^-8, in the selected currency.
 4) Recent Payouts Made - Required Currency Ticker - this checks the recent payouts made by the faucet whose API Key is being used. (Currently not working properly)
+
 Feedback from the faucethub API is displayed on screen after every API request. Please record the required information after each request as these responses are not recorded and will be cleared after a refresh or when the next request is made.
 
 ### Important Notes
